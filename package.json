@@ -1,0 +1,16 @@
+{
+  "name": "Belajarnodejs",
+  "version": "1.0.0",
+  "description": "Project belajar node js",
+  "main": "main.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "author": "Fadeta Ilhan Gandhi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "port": "^0.8.1"
+  }
+}
